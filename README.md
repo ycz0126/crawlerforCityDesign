@@ -7,4 +7,6 @@
 
 ## 使用方法
 ### 参见例子模板。输入参数为：最小经度，最小维度，最大经度，最大纬度。点击unactivited按钮。若您同意条款，则在弹出窗口上打勾，并点击同意条款按钮
-
+![crawlerforCityDesign](https://github.com/architect-ghpython/crawlerforCityDesign/blob/main/img/2.png)
+![crawlerforCityDesign](https://github.com/architect-ghpython/crawlerforCityDesign/blob/main/img/3.png)
+![crawlerforCityDesign](https://github.com/architect-ghpython/crawlerforCityDesign/blob/main/img/4.png)
